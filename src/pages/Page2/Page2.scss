@@ -1,0 +1,36 @@
+.page-2{
+    padding: 0.5%;
+    header{
+        background-color: #ccc;
+    }
+    .swiper-pagination{
+        position: relative;
+        margin-top: 12px;
+    }
+
+    .input-date{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        input{
+
+            padding: 4px;
+            font-size: 16px;
+        }
+    }
+
+    .title{
+        background-color: #ccc;
+        font-size: 20px;
+        width: fit-content;
+        padding: 4px;
+        margin-left: 12px;
+        font-weight: 500;
+    }
+
+    .item{
+        background-color: #d0e1bd;
+        padding: 30px 10px;
+    }
+}
